@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Password Reset Form - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Password Reset Form component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/password-reset-form)
+- [Info Page](https://codyhouse.co/ds/components/info/password-reset-form)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
